@@ -1,6 +1,6 @@
-cmake_minimum_required(VERSION 3.20)
-project(lcr)
+cmake_minimum_required(VERSION 3.21)
+project(lcrFINAL)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(lcr dice.cpp dice.h player.cpp player.h game.cpp)
+add_executable(lcrFINAL main.cpp Player.hpp)

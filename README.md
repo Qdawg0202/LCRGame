@@ -1,3 +1,16 @@
 # lcrGame
-Basic LCR dice game
+
+Based on the ABSOLUTELY CLASSIC dice game where no players actively do anything and the will of the game is determined entirely through RNG (JUST LIKE LIFE) 
+
+SELECT THE AMOUNT OF PLAYERS
+
+PLAYER NAMES ARE NUMBERED (LIKE PRISONERS, WHICH ALSO MIRRORS REALITY)
+PRESSING ENTER ROLLS THE DICE FOR THE WHOLE GAME
+THE WINNER IS ALREADY PREDETERMINED (BY FATE) AND THERE IS NOTHING TO CHANGE THAT (AGAIN, JUST LIKE REAL LIFE!!)
+
+
+
+I AM THE REAL LIFE
 デビッド・マルティネス
+
+my bad caps lock was on!
